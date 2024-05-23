@@ -13,4 +13,9 @@
 		<module>emaillist2</module>
 		<module>guestbook2</module>
 	</modules>
+	
+	<build>
+		<finalName>helloweb</finalName>
+	</build>
+	
 </project>
